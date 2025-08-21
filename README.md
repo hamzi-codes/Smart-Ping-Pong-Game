@@ -36,18 +36,18 @@ Edit
 g++ main.cpp -o pingpong -lraylib
 ./pingpong
 
-🎮 Controls
+## 🎮 Controls
 -> Up Arrow → Move paddle up
 -> Down Arrow → Move paddle down
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 Add sound effects and score display.
 
 Different difficulty levels for the AI.
 
 Multiplayer mode (two human players).
 
-📚 About
+## 📚 About
 This was my first try at game development with C++ OOP and AI detection.
 The project helped me learn about handling graphics, input, and game loops in a structured way.
 
